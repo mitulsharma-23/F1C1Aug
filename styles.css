@@ -1,0 +1,14 @@
+body{
+    padding: 30px; /* by padding we give some space */
+}
+
+/* Here we are using the id given by us and changing style in that in particular */
+#section-1{
+    border: 2px solid black;
+    padding: 30px;
+}
+
+/* This is used to change color of the anchor tags */
+a{
+    color: black;
+}
